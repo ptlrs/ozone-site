@@ -48,7 +48,6 @@ words:
 - ratis
 - OM
 - SCM
-- DN
 - datanode
 - datanodes
 - ofs
